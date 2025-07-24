@@ -16,9 +16,9 @@ GameObject:
   - component: {fileID: 1470952499882473243}
   - component: {fileID: 5731870591283165435}
   - component: {fileID: -6136642760578231996}
-  - component: {fileID: 5623108242890114767}
+  - component: {fileID: 6936778463749367608}
   m_Layer: 0
-  m_Name: StretchableCylinder
+  m_Name: StretchableCylinder 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -138,7 +138,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9026711464663961072}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 92ee504ddaebd5a4c8d4ffc92efbc933, type: 3}
   m_Name: 
@@ -245,12 +245,12 @@ MonoBehaviour:
   m_StartingInteractionStrengthFilters: []
   m_AttachTransform: {fileID: 0}
   m_SecondaryAttachTransform: {fileID: 0}
-  m_UseDynamicAttach: 0
+  m_UseDynamicAttach: 1
   m_MatchAttachPosition: 1
   m_MatchAttachRotation: 1
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
-  m_AttachEaseInTime: 0.15
+  m_AttachEaseInTime: 0
   m_MovementType: 2
   m_VelocityDamping: 1
   m_VelocityScale: 1
@@ -293,17 +293,18 @@ MonoBehaviour:
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
   m_FarAttachMode: 0
---- !u!114 &5623108242890114767
+--- !u!114 &6936778463749367608
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9026711464663961072}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 683925f358f1c2c4096345abf391d94f, type: 3}
+  m_Script: {fileID: 11500000, guid: b18eebfb6a3af4044be6ece6986be043, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   highlightColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   deletingCanvasPrefab: {fileID: 4694037174304464489, guid: 4206e8cdffb90bd43b540295dd37fe86, type: 3}
+  hideDelay: 3
