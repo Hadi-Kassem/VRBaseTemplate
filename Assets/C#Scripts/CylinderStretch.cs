@@ -4,15 +4,17 @@ public class CylinderStretch : MonoBehaviour
 {
     public float stretchSpeed = 1f;
     public float rotationSpeed = 90f;
-    public float minScale = 0.1f;
-    public float maxScale = 10f;
+    [Range(0.1f, 10f)] public float minScale = 0.5f;
+    [Range(0.1f, 10f)] public float maxScale = 2f;
 
     private bool isSelected = false;
     private SelectableVisual visual;
+    private Vector3 initialScale;
 
     void Start()
     {
         visual = GetComponent<SelectableVisual>();
+        initialScale = transform.localScale;
     }
 
     void Update()
@@ -23,11 +25,13 @@ public class CylinderStretch : MonoBehaviour
 
         Vector3 scale = transform.localScale;
 
+        // Vertical stretch
         if (Input.GetKey(KeyCode.UpArrow))
             scale.y += stretchSpeed * Time.deltaTime;
         if (Input.GetKey(KeyCode.DownArrow))
             scale.y -= stretchSpeed * Time.deltaTime;
 
+        // Uniform width scaling with mouse
         if (Input.GetMouseButton(0))
         {
             scale.x += stretchSpeed * Time.deltaTime;
@@ -39,12 +43,14 @@ public class CylinderStretch : MonoBehaviour
             scale.z -= stretchSpeed * Time.deltaTime;
         }
 
-        scale.x = Mathf.Clamp(scale.x, minScale, maxScale);
-        scale.y = Mathf.Clamp(scale.y, minScale, maxScale);
-        scale.z = Mathf.Clamp(scale.z, minScale, maxScale);
+        // Clamp to safe relative scale range
+        scale.x = Mathf.Clamp(scale.x, initialScale.x * minScale, initialScale.x * maxScale);
+        scale.y = Mathf.Clamp(scale.y, initialScale.y * minScale, initialScale.y * maxScale);
+        scale.z = Mathf.Clamp(scale.z, initialScale.z * minScale, initialScale.z * maxScale);
 
         transform.localScale = scale;
 
+        // Manual rotation via number keys
         Vector2 rotationInput = Vector2.zero;
         if (Input.GetKey(KeyCode.Alpha6) || Input.GetKey(KeyCode.Keypad6))
             rotationInput.x += 1;
@@ -55,8 +61,8 @@ public class CylinderStretch : MonoBehaviour
         if (Input.GetKey(KeyCode.Alpha2) || Input.GetKey(KeyCode.Keypad2))
             rotationInput.y -= 1;
 
-        transform.Rotate(Vector3.up, rotationInput.x * rotationSpeed * Time.deltaTime);
-        transform.Rotate(Vector3.right, rotationInput.y * rotationSpeed * Time.deltaTime);
+        transform.Rotate(Vector3.up, rotationInput.x * rotationSpeed * Time.deltaTime, Space.World);
+        transform.Rotate(Vector3.right, rotationInput.y * rotationSpeed * Time.deltaTime, Space.World);
     }
 
     void HandleSelection()
