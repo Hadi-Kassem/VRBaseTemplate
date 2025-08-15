@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class SpawnCylinder : MonoBehaviour
 {
-    public GameObject cylinderPrefab;   // Assign this in the Inspector
-    public Transform playerHead;        // The XR Camera or main camera
+    public GameObject cylinderPrefab;   // Assign this from the Project window!
+    public Transform playerHead;        // Usually the XR Camera (Main Camera)
 
     public float distanceInFront = 2f;
 
@@ -18,6 +18,10 @@ public class SpawnCylinder : MonoBehaviour
         Vector3 spawnPosition = playerHead.position + playerHead.forward * distanceInFront;
         Quaternion spawnRotation = Quaternion.identity;
 
-        Instantiate(cylinderPrefab, spawnPosition, spawnRotation);
+        GameObject instance = Instantiate(cylinderPrefab, spawnPosition, spawnRotation);
+
+        instance.SetActive(true);
+
+   
     }
 }

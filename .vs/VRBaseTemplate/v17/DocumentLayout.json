@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\user\\VRBaseTemplate\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\VRBaseTemplate\\Assets\\ObjectMerge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ObjectMerge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\VRBaseTemplate\\Assets\\Test2ConeStrech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test2ConeStrech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\VRBaseTemplate\\Assets\\DonePrefabs\\BowlingPinStrech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DonePrefabs\\BowlingPinStrech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\CylenderSpawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\C#Scripts\\CylenderSpawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\VRBaseTemplate\\Assets\\Samples\\XR Interaction Toolkit\\3.0.8\\XR Device Simulator\\Scripts\\XRDeviceSimulatorUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\XR Interaction Toolkit\\3.0.8\\XR Device Simulator\\Scripts\\XRDeviceSimulatorUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\VRBaseTemplate\\Assets\\PlayerFlyMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerFlyMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\CylinderStretch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\C#Scripts\\CylinderStretch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\C#Scripts\\SelectableVisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\CylenderSpawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\C#Scripts\\CylenderSpawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\VRBaseTemplate\\Assets\\CylinderStretch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -78,11 +98,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectMerge.cs",
+              "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\ObjectMerge.cs",
+              "RelativeDocumentMoniker": "Assets\\ObjectMerge.cs",
+              "ToolTip": "C:\\Users\\user\\VRBaseTemplate\\Assets\\ObjectMerge.cs",
+              "RelativeToolTip": "Assets\\ObjectMerge.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:38:29.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Test2ConeStrech.cs",
+              "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\Test2ConeStrech.cs",
+              "RelativeDocumentMoniker": "Assets\\Test2ConeStrech.cs",
+              "ToolTip": "C:\\Users\\user\\VRBaseTemplate\\Assets\\Test2ConeStrech.cs",
+              "RelativeToolTip": "Assets\\Test2ConeStrech.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:47:53.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlingPinStrech.cs",
+              "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\DonePrefabs\\BowlingPinStrech.cs",
+              "RelativeDocumentMoniker": "Assets\\DonePrefabs\\BowlingPinStrech.cs",
+              "ToolTip": "C:\\Users\\user\\VRBaseTemplate\\Assets\\DonePrefabs\\BowlingPinStrech.cs",
+              "RelativeToolTip": "Assets\\DonePrefabs\\BowlingPinStrech.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:08:22.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SelectableEvents.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\SelectableEvents.cs",
               "RelativeDocumentMoniker": "Assets\\C#Scripts\\SelectableEvents.cs",
@@ -90,12 +148,11 @@
               "RelativeToolTip": "Assets\\C#Scripts\\SelectableEvents.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:00:10.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T12:00:10.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "SelectableEvents.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\Hadi\u0027s Work\\SelectableEvents.cs",
               "RelativeDocumentMoniker": "Assets\\Hadi\u0027s Work\\SelectableEvents.cs",
@@ -107,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "NewSelectable.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\NewSelectable.cs",
               "RelativeDocumentMoniker": "Assets\\NewSelectable.cs",
@@ -118,7 +175,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "CylenderSpawning.cs",
+              "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\CylenderSpawning.cs",
+              "RelativeDocumentMoniker": "Assets\\C#Scripts\\CylenderSpawning.cs",
+              "ToolTip": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\CylenderSpawning.cs",
+              "RelativeToolTip": "Assets\\C#Scripts\\CylenderSpawning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:44:33.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerFlyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\PlayerFlyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerFlyMovement.cs",
+              "ToolTip": "C:\\Users\\user\\VRBaseTemplate\\Assets\\PlayerFlyMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerFlyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:23:48.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XRDeviceSimulatorUI.cs",
+              "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\Samples\\XR Interaction Toolkit\\3.0.8\\XR Device Simulator\\Scripts\\XRDeviceSimulatorUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.0.8\\XR Device Simulator\\Scripts\\XRDeviceSimulatorUI.cs",
+              "ToolTip": "C:\\Users\\user\\VRBaseTemplate\\Assets\\Samples\\XR Interaction Toolkit\\3.0.8\\XR Device Simulator\\Scripts\\XRDeviceSimulatorUI.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\3.0.8\\XR Device Simulator\\Scripts\\XRDeviceSimulatorUI.cs",
+              "ViewState": "AgIAABsEAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:26:36.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "DeleteButtonUI.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\DeleteButtonUI.cs",
               "RelativeDocumentMoniker": "Assets\\DeleteButtonUI.cs",
@@ -130,19 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CylenderSpawning.cs",
-              "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\CylenderSpawning.cs",
-              "RelativeDocumentMoniker": "Assets\\C#Scripts\\CylenderSpawning.cs",
-              "ToolTip": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\CylenderSpawning.cs",
-              "RelativeToolTip": "Assets\\C#Scripts\\CylenderSpawning.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:44:33.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "SelectableVisual.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\SelectableVisual.cs",
               "RelativeDocumentMoniker": "Assets\\C#Scripts\\SelectableVisual.cs",
@@ -154,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "CylinderStretch.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\CylinderStretch.cs",
               "RelativeDocumentMoniker": "Assets\\C#Scripts\\CylinderStretch.cs",
@@ -162,12 +243,11 @@
               "RelativeToolTip": "Assets\\C#Scripts\\CylinderStretch.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T14:09:53.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T14:09:53.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "DeleteButtonUI.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\Hadi\u0027s Work\\DeleteButtonUI.cs",
               "RelativeDocumentMoniker": "Assets\\Hadi\u0027s Work\\DeleteButtonUI.cs",
@@ -178,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "CurvedCylinder.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\CurvedCylinder.cs",
               "RelativeDocumentMoniker": "Assets\\C#Scripts\\CurvedCylinder.cs",
@@ -190,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Resizing Torus.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\Resizing Torus.cs",
               "RelativeDocumentMoniker": "Assets\\C#Scripts\\Resizing Torus.cs",
@@ -202,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Library\\PackageCache\\com.unity.render-pipelines.universal@63585d5be1b1\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@63585d5be1b1\\Shaders\\Lit.shader",
@@ -214,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Ushape.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\C#Scripts\\Ushape.cs",
               "RelativeDocumentMoniker": "Assets\\C#Scripts\\Ushape.cs",
@@ -226,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "RotateCylinderWithJoystick.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\VRBaseTemplate\\Assets\\C#Scripts\\RotateCylinderWithJoystick.cs",
               "RelativeDocumentMoniker": "..\\OneDrive\\Desktop\\VRBaseTemplate\\Assets\\C#Scripts\\RotateCylinderWithJoystick.cs",
@@ -237,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "RotatableTextureShader.shader",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\VRBaseTemplate\\Assets\\RotatableTextureShader.shader",
               "RelativeDocumentMoniker": "..\\OneDrive\\Desktop\\VRBaseTemplate\\Assets\\RotatableTextureShader.shader",
@@ -248,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "SelectableVisual.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\VRBaseTemplate\\Assets\\SelectableVisual.cs",
               "RelativeDocumentMoniker": "..\\OneDrive\\Desktop\\VRBaseTemplate\\Assets\\SelectableVisual.cs",
@@ -259,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "CylinderStretch.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\VRBaseTemplate\\Assets\\CylinderStretch.cs",
               "RelativeDocumentMoniker": "..\\OneDrive\\Desktop\\VRBaseTemplate\\Assets\\CylinderStretch.cs",
@@ -270,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "InputSystemPlugin.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Library\\PackageCache\\com.unity.inputsystem@7fe8299111a7\\InputSystem\\Editor\\DeviceSimulator\\InputSystemPlugin.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@7fe8299111a7\\InputSystem\\Editor\\DeviceSimulator\\InputSystemPlugin.cs",
@@ -282,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "GazeInputManager.cs",
               "DocumentMoniker": "C:\\Users\\user\\VRBaseTemplate\\Assets\\Samples\\XR Interaction Toolkit\\3.0.8\\Starter Assets\\Scripts\\GazeInputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.0.8\\Starter Assets\\Scripts\\GazeInputManager.cs",
