@@ -13,6 +13,10 @@ public class CylinderStretch : MonoBehaviour
 
     void Start()
     {
+        if (GetComponent<Collider>() == null)
+        {
+            gameObject.AddComponent<MeshCollider>().convex = true;
+        }
         visual = GetComponent<SelectableVisual>();
         initialScale = transform.localScale;
     }
