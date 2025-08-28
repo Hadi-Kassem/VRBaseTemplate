@@ -4,8 +4,8 @@ public class CylinderStretch : MonoBehaviour
 {
     public float stretchSpeed = 1f;
     public float rotationSpeed = 90f;
-    [Range(0.1f, 10f)] public float minScale = 0.5f;
-    [Range(0.1f, 10f)] public float maxScale = 2f;
+    [Range(0.01f, 10f)] public float minScale = 0.005f;
+    [Range(0.01f, 10f)] public float maxScale = 200f;
 
     private bool isSelected = false;
     private SelectableVisual visual;
