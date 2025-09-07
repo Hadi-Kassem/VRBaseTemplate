@@ -73908,6 +73908,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arch Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 6206293864138167177, guid: 66ee9ec318c29d84daa0be0d1f3a9586, type: 3}
+      propertyPath: highlightColor.b
+      value: 0.07734423
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206293864138167177, guid: 66ee9ec318c29d84daa0be0d1f3a9586, type: 3}
+      propertyPath: highlightColor.g
+      value: 0.72747636
+      objectReference: {fileID: 0}
+    - target: {fileID: 6206293864138167177, guid: 66ee9ec318c29d84daa0be0d1f3a9586, type: 3}
+      propertyPath: highlightColor.r
+      value: 0.8037735
+      objectReference: {fileID: 0}
     - target: {fileID: 9164517015800807783, guid: 66ee9ec318c29d84daa0be0d1f3a9586, type: 3}
       propertyPath: maxScale
       value: 2.6
@@ -74096,6 +74108,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b18eebfb6a3af4044be6ece6986be043, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  highlightColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  highlightColor: {r: 0.80392164, g: 0.7294118, b: 0.078431375, a: 1}
   deletingCanvasPrefab: {fileID: 4694037174304464489, guid: 4206e8cdffb90bd43b540295dd37fe86, type: 3}
   hideDelay: 3
